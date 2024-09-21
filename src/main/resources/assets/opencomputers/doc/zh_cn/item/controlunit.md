@@ -1,5 +1,5 @@
 # 控制单元
 
-![内置定速巡航功能。](oredict:oc:materialCU)
+![内置巡航系统。](oredict:oc:materialCU)
 
-高级合成材料，用于合成更高端的电路，例如[CPU](cpu1.md)。
+合成 [CPU](cpu1.md) 等高级电路的元件。
